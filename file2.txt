@@ -1,0 +1,1 @@
+{Chaosclassic=newChaos();classic.startGame();}
